@@ -1,1 +1,8 @@
-# Data-Structures-CAT
+# BCS-225-CAT
+
+## Group Members
+Francis Lisulu Muhanji - COM/B/01-00126/2022<br/>
+Maxwel Anambo - COM/B/01-00144/2022<br/>
+IAN KOECH - COM/B/01-56937/2021<br/>
+KENEDDY CHARO - COM/B/01-00094/2022<br/>
+KELVIN MAKALA - COM/B/01-55794/2022<br/>
