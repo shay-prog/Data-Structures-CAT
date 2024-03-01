@@ -1,8 +1,8 @@
 # BCS-225-CAT
 
 ## Group Members
-Francis Lisulu Muhanji - COM/B/01-00126/2022<br/>
-Maxwel Anambo - COM/B/01-00144/2022<br/>
-IAN KOECH - COM/B/01-56937/2021<br/>
-KENEDDY CHARO - COM/B/01-00094/2022<br/>
-KELVIN MAKALA - COM/B/01-55794/2022<br/>
+David Shalom Mukabane - SIT/B/01-55906/2022<br/>
+Samson Omondi - SIT/B/01-02909/2022<br/>
+Erick Odero - SIT/B/01-02918/2022<br/>
+Benard Moseka Rorat - SIT/B/01-02893/2022<br/>
+Philip Dapash - SIT/B/01-02892/2022<br/>
